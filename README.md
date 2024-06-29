@@ -4,7 +4,7 @@ Bonjour ! Je m'appelle Muhammed Emin, et je suis actuellement lycéen. Je suis p
 ## 🛠 Compétences
 - **Langues :** Python
 - **Informatique :** Bases en cybersécurité et Bases en Linux.
-- 
+  
 ## 🎯 Objectifs
 - **Objectif à court terme :** Augmenter ma connaissance dans la cybersécurité.
 - **Objectif à long terme :** Appronfondir ma maîtrise du language de programmation Python et m'améliorer en programmation web.
