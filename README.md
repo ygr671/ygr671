@@ -1,13 +1,13 @@
 ## 👋 Présentation
-Bonjour ! Je m'appelle Muhammed Emin, et je suis actuellement lycéen. Je suis passionné par l'informatique en général et la programmation.
+Bonjour ! Je m'appelle Muhammed Emin, j'ai 18 ans et je suis actuellement étudiant de BUT informatique première année. Je suis passionné par l'informatique en général et la programmation.
 
 ## 🛠 Compétences
-- **Langues :** Python
-- **Informatique :** Bases en cybersécurité et Bases en Linux.
+- **Langages :** Python, C#, Node.js, un peu de web.
+- **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## 🎯 Objectifs
-- **Objectif à court terme :** Augmenter ma connaissance dans la cybersécurité.
-- **Objectif à long terme :** Appronfondir ma maîtrise du language de programmation Python et m'améliorer en programmation web.
+- **Objectif à court terme :** Augmenter ma connaissance dans le domaine de l'administration système.
+- **Objectif à long terme :** M'améliorer en UI/UX design web et en logique algorithmique.
 
 ## 📬 Contact
 - **Email :** m.erdal.pro@proton.me
