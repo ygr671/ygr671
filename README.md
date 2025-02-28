@@ -2,7 +2,7 @@
 Bonjour ! Je m'appelle Muhammed Emin, j'ai 18 ans et je suis actuellement étudiant de BUT informatique première année. Je suis passionné par l'informatique en général et la programmation.
 
 ## 🛠 Compétences
-- **Langages :** Python, C#, Node.js, un peu de web.
+- **Langages :** Python, C#, Javascript, C, un peu de web.
 - **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## 🎯 Objectifs
