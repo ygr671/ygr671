@@ -21,8 +21,14 @@
 - **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## Objectifs / Goals
-- **Objectif à court terme :** M'améliorer en programmation réseau.
-- **Objectif à long terme :** M'améliorer en C++, maîtriser la STL et également en qualité de code.
+
+- **Objectif à court terme / Short term goal :** 
+    - 🇫🇷 M'améliorer en programmation réseau.
+    - 🇬🇧 Improve my network programming skills.
+
+- **Objectif à long terme / Long term goal :** 
+    - 🇫🇷 M'améliorer en C++, maîtriser la STL et également en qualité de code.
+    - 🇬🇧 Improve my C++ skills, master the STL, and also improve code quality.
 
 ## Statistiques / Statistics
 
