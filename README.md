@@ -2,7 +2,7 @@
 
 🇫🇷 
 \
-Bonjour ! Je m'appelle Muhammed, j'ai 18 ans et je suis actuellement étudiant de BUT Conception d'applications et développement. Je suis passionné par l'informatique en général et la programmation.
+Bonjour ! Je m'appelle Muhammed, j'ai 18 ans et je suis actuellement étudiant de BUT Conception et développement d'applications. Je suis passionné par l'informatique en général et la programmation.
 \
 🇬🇧 
 \
@@ -30,13 +30,13 @@ Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer sci
 ### Mes compétences / My skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash,sqlite" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,js,css,c,cpp,cs,dotnet,java,php,bash,sqlite" alt="My Skills">
 </p>
 
 ### Mes outils / My Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,cmake,git,idea,neovim,raspberrypi" alt="My Tools">
+  <img src="https://skillicons.dev/icons?i=debian,cmake,git,idea,clion,neovim,raspberrypi" alt="My Tools">
 </p>
 
 - 🇫🇷 Bases en administration système, cybersécurité offensive et ligne de commande Linux.
