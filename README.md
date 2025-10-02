@@ -26,9 +26,14 @@
 
 ## Statistiques / Statistics
 
-![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygr671&theme=2077) 
-![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygr671&theme=2077) 
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygr671&theme=2077) 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygr671&theme=2077" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygr671&theme=2077" alt="Top Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygr671&theme=2077" alt="General Stats"/>
+</p>
 
 ## Contact
 
