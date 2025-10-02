@@ -1,8 +1,12 @@
 ## Présentation
 
-🇫🇷 Bonjour ! Je m'appelle Muhammed, j'ai 18 ans et je suis actuellement étudiant de BUT Conception d'applications et développement. Je suis passionné par l'informatique en général et la programmation.
+🇫🇷 
 \
-🇬🇧 Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
+Bonjour ! Je m'appelle Muhammed, j'ai 18 ans et je suis actuellement étudiant de BUT Conception d'applications et développement. Je suis passionné par l'informatique en général et la programmation.
+\
+🇬🇧 
+\
+Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
 
 ### Ci-dessous une liste de mes dépôts épinglés. Ces projets sont composés d'applications avec un intérêt pour la programmation réseau ou non :
 #### 🇫🇷 
