@@ -1,8 +1,9 @@
 ## 👋 Présentation
-Bonjour ! Je m'appelle Muhammed Emin, j'ai 18 ans et je suis actuellement étudiant de BUT informatique première année. Je suis passionné par l'informatique en général et la programmation.
+🇫🇷 Bonjour ! Je m'appelle Muhammed Emin, j'ai 18 ans et je suis actuellement étudiant de BUT Conception d'applications et développement. Je suis passionné par l'informatique en général et la programmation.
+🇬🇧 Hello ! I am Muhammed Emin, I'm 18 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
 
 ## 🛠 Compétences
-- **Langages :** C#, Javascript, C, Java, un peu de web.
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,csharp,cplusplus)](https://skillicons.dev)
 - **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## 🎯 Objectifs
