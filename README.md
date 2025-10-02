@@ -18,8 +18,9 @@
   <img src="https://skillicons.dev/icons?i=debian,cmake,git,idea,neovim,raspberrypi" alt="My Tools">
 </p>
 
-- **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
-  
+- 🇫🇷 Bases en administration système, cybersécurité offensive et ligne de commande Linux.
+- 🇬🇧 Fundamentals of system administration, offensive cybersecurity, and the Linux command line.
+
 ## Objectifs / Goals
 
 - **Objectif à court terme / Short term goal :** 
