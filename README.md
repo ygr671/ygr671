@@ -30,13 +30,13 @@ Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer sci
 ### Mes compétences / My skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,css,c,cpp,cs,dotnet,java,php,bash,sqlite" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,js,css,c,cpp,cs,dotnet,java,php,bash,sqlite,godot" alt="My Skills">
 </p>
 
 ### Mes outils / My Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,cmake,git,idea,clion,neovim,raspberrypi" alt="My Tools">
+  <img src="https://skillicons.dev/icons?i=debian,cmake,git,idea,clion,neovim,raspberrypi,md" alt="My Tools">
 </p>
 
 - 🇫🇷 Bases en administration système, cybersécurité offensive et ligne de commande Linux.
