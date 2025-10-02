@@ -26,8 +26,9 @@
 
 ## Statistiques / Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygr671&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygr671&layout=compact&theme=radical)
+![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygr671&theme=2077) 
+![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygr671&theme=2077) 
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygr671&theme=2077) 
 
 ## Contact
 
