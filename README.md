@@ -4,10 +4,15 @@
 🇬🇧 Hello ! I am Muhammed Emin, I'm 18 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
 
 ## 🛠 Compétences/Skills
-### Mes compétences/My skills
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash,sqlite)](https://skillicons.dev)</p>
-### Mes Outils/My Tools
-<p align="center">[![My Tools](https://skillicons.dev/icons?i=debian,cmake,git,idea,neovim,raspberrypi)](https://skillicons.dev)</p>
+### Mes compétences / My skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash,sqlite" alt="My Skills">
+</p>
+
+### Mes outils / My Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=debian,cmake,git,idea,neovim,raspberrypi" alt="My Tools">
+</p>
 - **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## 🎯 Objectifs
