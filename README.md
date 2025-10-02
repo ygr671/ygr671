@@ -5,17 +5,18 @@
 
 ## 🛠 Compétences/Skills
 ### Mes compétences/My skills
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash,sqlite)](https://skillicons.dev)
 ### Mes Outils/My Tools
-[![My Tools](https://skillicons.dev/icons?i=debian,cmake,git,idea,nvim)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=debian,cmake,git,idea,nvim,raspberrypi)](https://skillicons.dev)
 - **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## 🎯 Objectifs
-- **Objectif à court terme :** Augmenter ma connaissance dans le domaine de l'administration système, la programmation système (particulièrement en C) et la programmation réseau.
-- **Objectif à long terme :** M'améliorer en UI/UX design web, en logique algorithmique, qualité du code et apprendre le C++.
+- **Objectif à court terme :** M'améliorer en programmation réseau.
+- **Objectif à long terme :** M'améliorer en C++, maîtriser la STL et également en qualité de code.
 
 ## 📬 Contact
 
 - **Email :** m.erdal.pro[at]proton.me
 
-Merci de visiter mon README ! N'hésitez pas à me contacter pour toute question.
+🇫🇷  Merci de visiter mon README ! N'hésitez pas à me contacter pour toute question.
+🇬🇧  Thank you for visiting my README ! Feel free to contact me if you have any questions.
