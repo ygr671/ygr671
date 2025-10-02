@@ -8,7 +8,7 @@ Bonjour ! Je m'appelle Muhammed, j'ai 18 ans et je suis actuellement étudiant d
 \
 Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
 
-### Ci-dessous une liste de mes dépôts épinglés. Ces projets sont composés d'applications avec un intérêt pour la programmation réseau ou non :
+### Ci-dessous une liste de mes dépôts épinglés. Ces projets sont essentiellement des applications avec éventuellement un intérêt pour la programmation réseau :
 #### 🇫🇷 
 - C-Pong, une réplique du jeu "Pong" écrite en C avec Raylib
 - Beyond The Ice, un jeu sérieux sur la gestion intérieure d'une base antarctique basé sur le moteur Godot
