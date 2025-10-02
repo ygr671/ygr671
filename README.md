@@ -5,9 +5,9 @@
 
 ## 🛠 Compétences/Skills
 ### Mes compétences/My skills
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash,sqlite)](https://skillicons.dev)
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,cpp,php,bash,sqlite)](https://skillicons.dev)</p>
 ### Mes Outils/My Tools
-[![My Tools](https://skillicons.dev/icons?i=debian,cmake,git,idea,neovim,raspberrypi)](https://skillicons.dev)
+<p align="center">[![My Tools](https://skillicons.dev/icons?i=debian,cmake,git,idea,neovim,raspberrypi)](https://skillicons.dev)</p>
 - **Informatique :** Bases en administration système, cybersécurité offensive et ligne de commande Linux.
   
 ## 🎯 Objectifs
