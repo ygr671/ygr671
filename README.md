@@ -1,4 +1,9 @@
 ## Présentation
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=0:FF0000,100:000000&text=Muhammed&fontColor=FFFFFF&section=header&reversal=false)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=9D4EDD&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</p>
 
 🇫🇷 
 \
