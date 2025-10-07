@@ -78,6 +78,6 @@ Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer sci
 🇬🇧  Thank you for visiting my README ! Feel free to contact me if you have any questions.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ygr671&label=VIEWS&color=FFFFFF&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ygr671&label=VIEWS&color=000000&style=for-the-badge" alt="Profile views"/>
 </p>
 
