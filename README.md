@@ -1,7 +1,7 @@
 ## Présentation
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=0:FF0000,100:000000&text=Muhammed&fontColor=FFFFFF&section=header&reversal=false)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=IT+Student;System+and+Network+Enthusiast;C+%2B%2B+%26+C+Developer;Linux+User;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=IT+Student;System+and+Network+Enthusiast;C+%2B+%26+C+Developer;Linux+User;Always+Learning" alt="Typing SVG" />
 </p>
 
 
