@@ -6,11 +6,11 @@
 
 🇫🇷 
 \
-Bonjour ! Je m'appelle Muhammed, j'ai 18 ans et je suis actuellement étudiant de BUT Conception et développement d'applications. Je suis passionné par l'informatique en général et la programmation.
+Bonjour ! Je m'appelle Muhammed, j'ai 19 ans et je suis actuellement étudiant de BUT Conception et développement d'applications. Je suis passionné par l'informatique en général et la programmation.
 \
 🇬🇧 
 \
-Hello ! I am Muhammed, I'm 18 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
+Hello ! I am Muhammed, I'm 19 years old and I am currently studying computer science. I am passionate about computer science in general and programming.
 
 ### 🇫🇷  Ci-dessous une liste de mes dépôts épinglés. Ces projets sont essentiellement des applications avec éventuellement un intérêt pour la programmation réseau :
 ### 🇬🇧   Below is a list of my pinned repositories. These projects are mainly applications that may be of interest for network programming :
